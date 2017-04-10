@@ -1,0 +1,109 @@
+﻿#background_big {
+    background-color: azure;
+    width: 1200px;
+	height: 1200px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+#baslik_top {
+    width: 1060px;
+    margin-left: 20px;
+    height: 83px;
+    padding-top: 5px;
+    background-color: #00DCFF;
+    padding-right: 100px;
+	float: left;
+}
+
+
+    #baslik_top h1 {
+        padding-left: 210px;
+        color: #4B651C;
+    }
+
+.menu_bar {
+    width: 1160px;
+    margin-left: 20px;
+    height: 39px;
+    background-color: azure;
+    margin-top: 20px;
+}
+
+.menu_items .menu_homepage, .menu_myDep, .menu_use {
+    float: left;
+    width: 360px;
+    margin-left: 20px;
+    background-color: #00DCFF;
+    text-align: center;
+    height: 23px;
+    margin-top: 4px;
+    padding-bottom: 7px;
+}
+
+.menu_items a{
+    color:#4B651C;
+    text-decoration:none;
+    font-size:26px;
+}
+
+.table_style {
+    border: 2px solid #4B651C;
+    border-radius: 10px;
+    margin-top: 48px;
+    margin-left: 51px;
+    float: left;
+	font-weight: bolder;
+	color: black;
+	font-size: 24px;
+}
+
+.img_miz {
+    height: 350px;
+    width: 330px;
+    float: left;
+	margin-top: 50px;
+	margin-left: 55px;
+}
+
+.pdf_div{
+	background-color:#00DCFF;
+	height:56px;
+	padding-left: 83px;
+	margin-left: 52px;
+	margin-top: 551px;
+	width: 254px;
+}
+.pdf_div a{
+	text-decoration:none;
+	color:#4B651C;
+	font-weight: bolder;
+	
+}
+.paragraf{
+	margin:10px 60px 20px;
+
+}
+
+.paragraf a{
+	color: #4B651C;
+	font-size: 24px;
+}
+.schedule{
+	color: #4B651C;
+	text-align: center;
+}
+.useful{
+	color: #4B651C;
+	font-size: 25px;
+}
+.useful a{
+	text-decoration: none;
+	color: black;
+	font-size: 30px;
+}
+.hacettepe{
+	height: 80px;
+	width: 87px;
+	float: left;
+}
